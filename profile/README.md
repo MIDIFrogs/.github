@@ -35,7 +35,7 @@ Here is the full frogs squad with links to our Telegram, you can contact us with
       Our Design Maestro
     </td>
     <td style="text-align: center;">
-      <div align="center"><img src="images/avatars/klumbrik.png" alt="Daniel 'klumbrik' Kudzoev" width="175" height="175"><br></div>
+      <div align="center"><img src="images/avatars/klumbrik.jpg" alt="Daniel 'klumbrik' Kudzoev" width="175" height="175"><br></div>
       <strong>Daniel <a href="https://t.me/da4ch4nik">"klumbrik"</a> Kudzoev</strong><br>
       Pixel Perfect Artist
     </td>
