@@ -30,22 +30,22 @@ Here is the full frogs squad with links to our Telegram, you can contact us with
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="images/avatars/tworker.png" alt="Alexey 'TWorker' Zhaliy" width="150" height="150"><br>
+      <div align="center"><img src="images/avatars/tworker.png" alt="Alexey 'TWorker' Zhaliy" width="150" height="150"><br></div>
       <strong>Alexey <a href="https://t.me/DJsonSun">"TWorker"</a> Zhaliy</strong><br>
       Our Design Maestro
     </td>
     <td style="text-align: center;">
-      <img src="images/avatars/klumbrik.png" alt="Daniel 'klumbrik' Kudzoev" width="150" height="150"><br>
+      <div align="center"><img src="images/avatars/klumbrik.png" alt="Daniel 'klumbrik' Kudzoev" width="150" height="150"><br></div>
       <strong>Daniel <a href="https://t.me/da4ch4nik">"klumbrik"</a> Kudzoev</strong><br>
       Pixel Perfect Artist
     </td>
     <td style="text-align: center;">
-      <img src="images/avatars/kkkira.jpg" alt="Karina 'kkkiraaa' Khmeleva" width="150" height="150"><br>
+      <div align="center"><img src="images/avatars/kkkira.jpg" alt="Karina 'kkkiraaa' Khmeleva" width="150" height="150"><br></div>
       <strong>Karina <a href="https://t.me/kkkira_kh">"kkkiraaa"</a> Khmeleva</strong><br>
       Creative Artist
     </td>
     <td style="text-align: center;">
-      <img src="images/avatars/dexitti.jpg" alt="Dmitriy 'Dexitti' Yakovlev" width="150" height="150"><br>
+      <div align="center"><img src="images/avatars/dexitti.jpg" alt="Dmitriy 'Dexitti' Yakovlev" width="150" height="150"><br></div>
       <strong>Dmitriy <a href="https://t.me/Dexitti">"Dexitti"</a> Yakovlev</strong><br>
       Artist & Code Wizard
     </td>
@@ -56,17 +56,17 @@ Here is the full frogs squad with links to our Telegram, you can contact us with
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="images/avatars/jojer.jpg" alt="Maxim 'jojer' Odincov" width="150" height="150"><br>
+      <div align="center"><img src="images/avatars/jojer.jpg" alt="Maxim 'jojer' Odincov" width="150" height="150"><br></div>
       <strong>Maxim <a href="https://t.me/jojer_m">"jojer"</a> Odincov</strong><br>
       Development Guru
     </td>
     <td style="text-align: center;">
-      <img src="images/avatars/ioexception.jpg" alt="Ivan 'IOExcept10n' Olyanishin" width="150" height="150"><br>
+      <div align="center"><img src="images/avatars/ioexception.jpg" alt="Ivan 'IOExcept10n' Olyanishin" width="150" height="150"><br></div>
       <strong>Ivan <a href="https://t.me/ioexcept10n">"IOExcept10n"</a> Olyanishin</strong><br>
       Code Architect
     </td>
     <td style="text-align: center;">
-      <img src="images/avatars/wiverlord.jpg" alt="Alexander 'WiverLord' Potekhin" width="150" height="150"><br>
+      <div align="center"><img src="images/avatars/wiverlord.jpg" alt="Alexander 'WiverLord' Potekhin" width="150" height="150"><br></div>
       <strong>Alexander <a href="https://t.me/WiverLord">"WiverLord"</a> Potekhin</strong><br>
       Security Guardian
     </td>
@@ -77,7 +77,7 @@ Here is the full frogs squad with links to our Telegram, you can contact us with
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="images/avatars/rommi.jpg" alt="Roman 'rommi' Sviridov" width="150" height="150"><br>
+      <div align="center"><img src="images/avatars/rommi.jpg" alt="Roman 'rommi' Sviridov" width="150" height="150"><br>
       <strong>Roman <a href="https://t.me/konekodayo">"rommi"</a> Sviridov</strong><br>
       Music Magician
     </td>
