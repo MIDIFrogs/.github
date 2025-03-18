@@ -26,81 +26,63 @@ We're a group of student developers from South Ural State University (SUSU) in C
 Here is the full frogs squad with links to our Telegram, you can contact us with just clicking by name!
 
 ### 🎨 Creative Squad
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-  <div style="margin: 10px; text-align: center;">
-    <img src="images/avatars/tworker.png" alt="Alexey 'TWorker' Zhaliy" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-    <p>
-        <strong>Alexey <a href="https://t.me/DJsonSun">"TWorker"</a> Zhaliy</strong><br>
-        Our Design Maestro
-    </p>
-  </div>
-
-  <div style="margin: 10px; text-align: center;">
-    <img src="images/avatars/klumbrik.png" alt="Daniel 'klumbrik' Kudzoev" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-    <p>
-        <strong>Daniel <a href="https://t.me/da4ch4nik">"klumbrik"</a> Kudzoev</strong><br>
-        Pixel Perfect Artist
-    </p>
-  </div>
-
-  <div style="margin: 10px; text-align: center;">
-    <img src="images/avatars/kkkira.jpg" alt="Karina 'kkkiraaa' Khmeleva" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-    <p>
-        <strong>Karina <a href="https://t.me/kkkira_kh">"kkkiraaa"</a> Khmeleva</strong><br>
-        Creative Artist
-    </p>
-  </div>
-
-  <div style="margin: 10px; text-align: center;">
-    <img src="images/avatars/dexitti.jpg" alt="Dmitriy 'Dexitti' Yakovlev" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-    <p>
-        <strong>Dmitriy <a href="https://t.me/Dexitti">"Dexitti"</a> Yakovlev</strong><br>
-        Artist & Code Wizard
-    </p>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="images/avatars/tworker.png" alt="Alexey 'TWorker' Zhaliy" width="150" height="150"><br>
+      <strong>Alexey <a href="https://t.me/DJsonSun">"TWorker"</a> Zhaliy</strong><br>
+      Our Design Maestro
+    </td>
+    <td style="text-align: center;">
+      <img src="images/avatars/klumbrik.png" alt="Daniel 'klumbrik' Kudzoev" width="150" height="150"><br>
+      <strong>Daniel <a href="https://t.me/da4ch4nik">"klumbrik"</a> Kudzoev</strong><br>
+      Pixel Perfect Artist
+    </td>
+    <td style="text-align: center;">
+      <img src="images/avatars/kkkira.jpg" alt="Karina 'kkkiraaa' Khmeleva" width="150" height="150"><br>
+      <strong>Karina <a href="https://t.me/kkkira_kh">"kkkiraaa"</a> Khmeleva</strong><br>
+      Creative Artist
+    </td>
+    <td style="text-align: center;">
+      <img src="images/avatars/dexitti.jpg" alt="Dmitriy 'Dexitti' Yakovlev" width="150" height="150"><br>
+      <strong>Dmitriy <a href="https://t.me/Dexitti">"Dexitti"</a> Yakovlev</strong><br>
+      Artist & Code Wizard
+    </td>
+  </tr>
+</table>
 
 ### 💻 Tech Wizards
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="margin: 10px; text-align: center;">
-    <img src="images/avatars/jojer.jpg" alt="Maxim 'jojer' Odincov" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-    <p>
-        <strong>Maxim <a href="https://t.me/jojer_m">"jojer"</a> Odincov</strong><br>
-        Development Guru
-    </p>
-  </div>
-
-  <div style="margin: 10px; text-align: center;">
-    <img src="images/avatars/ioexception.jpg" alt="Ivan 'IOExcept10n' Olyanishin" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-    <p>
-        <strong>Ivan <a href="https://t.me/ioexcept10n">"IOExcept10n"</a> Olyanishin</strong><br>
-        Code Architect
-    </p>
-  </div>
-
-  <div style="margin: 10px; text-align: center;">
-    <img src="images/avatars/wiverlord.jpg" alt="Alexander 'WiverLord' Potekhin" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-    <p>
-        <strong>Alexander <a href="https://t.me/WiverLord">"WiverLord"</a> Potekhin</strong><br>
-        Security Guardian
-    </p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="images/avatars/jojer.jpg" alt="Maxim 'jojer' Odincov" width="150" height="150"><br>
+      <strong>Maxim <a href="https://t.me/jojer_m">"jojer"</a> Odincov</strong><br>
+      Development Guru
+    </td>
+    <td style="text-align: center;">
+      <img src="images/avatars/ioexception.jpg" alt="Ivan 'IOExcept10n' Olyanishin" width="150" height="150"><br>
+      <strong>Ivan <a href="https://t.me/ioexcept10n">"IOExcept10n"</a> Olyanishin</strong><br>
+      Code Architect
+    </td>
+    <td style="text-align: center;">
+      <img src="images/avatars/wiverlord.jpg" alt="Alexander 'WiverLord' Potekhin" width="150" height="150"><br>
+      <strong>Alexander <a href="https://t.me/WiverLord">"WiverLord"</a> Potekhin</strong><br>
+      Security Guardian
+    </td>
+  </tr>
+</table>
 
 ### 🎵 Sound Master
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-
-  <div style="margin: 10px; text-align: center;">
-    <img src="images/avatars/rommi.jpg" alt="Roman 'rommi' Sviridov" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-    <p>
-        <strong>Roman <a href="https://t.me/konekodayo">"rommi"</a> Sviridov</strong><br>
-        Music Magician
-    </p>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="images/avatars/rommi.jpg" alt="Roman 'rommi' Sviridov" width="150" height="150"><br>
+      <strong>Roman <a href="https://t.me/konekodayo">"rommi"</a> Sviridov</strong><br>
+      Music Magician
+    </td>
+  </tr>
+</table>
 
 ## 🥇 Our Achievements
 
